@@ -1,0 +1,11 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/acer/OneDrive/Documents/beee/digital5/exp5.v
+source_file = 1, C:/Users/acer/OneDrive/Documents/beee/digital5/Waveform.vwf
+source_file = 1, C:/Users/acer/OneDrive/Documents/beee/digital5/db/exp5.cbx.xml
+design_name = exp5
+instance = comp, \Q~output , Q~output, exp5, 1
+instance = comp, \clk~input , clk~input, exp5, 1
+instance = comp, \K~input , K~input, exp5, 1
+instance = comp, \J~input , J~input, exp5, 1
+instance = comp, \Mux0~0 , Mux0~0, exp5, 1
+instance = comp, \Q~reg0 , Q~reg0, exp5, 1
