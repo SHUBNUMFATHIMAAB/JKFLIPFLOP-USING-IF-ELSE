@@ -42,12 +42,8 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 6. Verify output with functional table
 
 **PROGRAM**
-
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: Kamali R
-RegisterNumber: 212225240065
-*/
 ```
-module exp5(
+module ex7(
     input J, K, clk,
     output reg Q
 );

@@ -1,0 +1,11 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/acer/Desktop/New folder/ex7/ex7.v
+source_file = 1, C:/Users/acer/Desktop/New folder/ex7/Waveform.vwf
+source_file = 1, C:/Users/acer/Desktop/New folder/ex7/db/ex7.cbx.xml
+design_name = ex7
+instance = comp, \Q~output , Q~output, ex7, 1
+instance = comp, \clk~input , clk~input, ex7, 1
+instance = comp, \K~input , K~input, ex7, 1
+instance = comp, \J~input , J~input, ex7, 1
+instance = comp, \Mux0~0 , Mux0~0, ex7, 1
+instance = comp, \Q~reg0 , Q~reg0, ex7, 1
